@@ -6,7 +6,7 @@
 
 📚 Very passionate about expanding my knowledge and learning new concepts daily
 
-### 🛠 Recent Projects 
+### 🛠 Recent Projects
 
 
 
