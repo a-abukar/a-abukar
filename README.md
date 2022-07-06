@@ -25,7 +25,7 @@
 - [Top 5 DevOps certification to have in 2022!](https://medium.com/@a.abukar/top-5-devops-certifications-to-have-in-2022-41a277894e9c)
 
 
-#### Let's connect 🤗
+### Let's connect 🤗
 
 <p align="left">
 <a href="https://medium.com/@a.abukar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@a.abukar" height="30" width="40" /></a>
@@ -34,7 +34,7 @@
 
 ### Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=a-abukar" alt="a-abukar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=a-abukar" alt="a-abukar" /></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=a-abukar&color=green&style=liquid" />
