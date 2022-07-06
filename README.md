@@ -6,15 +6,15 @@
 
 📚 Very passionate about expanding my knowledge and learning new concepts daily
 
-### Recent Projects
+### 🛠 Recent Projects 
 
 
 
-#### Community-driven
+#### 🎗 Community-driven
 
-#### Personal learning
+#### 📖 Personal learning
 
-### Medium Articles
+### 🖋 Medium Articles
 
 - [How I became a DevOps Engineer in 4 months](https://medium.com/@a.abukar/how-i-became-a-devops-engineer-in-4-months-68ab10ef3084)
 
