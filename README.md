@@ -2,7 +2,7 @@
 
 👨🏽‍💻 I'm Abdurahman. I am a DevOps Engineer, technology enthusiast, a community driven individual with a passion for sharing knowledge, and a native problem solver. An ex-academic-tutor aiming to transfer his skills to the technology industry. 
 
-✍🏽 To share the infectious passion, I write about my tech journey 
+✍🏽 To share the infectious passion, I write about my tech journey - checkout my medium page using the Medium icon below !!
 
 📚 Very passionate about expanding my knowledge and learning new concepts daily
 
