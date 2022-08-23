@@ -34,8 +34,6 @@
 
 ### Github Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=a-abukar&count_private=true&show_icons=true" alt="a-abukar" /></p>
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/a-abukar?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-abukar)](https://github.com/anuraghazra/github-readme-stats)
