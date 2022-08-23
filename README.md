@@ -34,7 +34,7 @@
 
 ### Github Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=a-abukar&count_private=true" alt="a-abukar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=a-abukar&count_private=true&show_icons=true" alt="a-abukar" /></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=a-abukar&color=green&style=liquid" />
