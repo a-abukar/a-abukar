@@ -38,6 +38,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-abukar)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/a-abukar)](https://git.io/awesome-stats-card)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=a-abukar&color=green&style=liquid" />
 </p>
