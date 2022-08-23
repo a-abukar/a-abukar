@@ -35,6 +35,7 @@
 ### Github Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=a-abukar" alt="a-abukar" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-abukar)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=a-abukar&color=green&style=liquid" />
