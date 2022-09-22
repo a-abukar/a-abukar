@@ -36,6 +36,7 @@ To share the infectious passion, I write about my tech journey.
 
 - [Password Manager](https://github.com/a-abukar/password-manager)
 - [DevOps Pipeline Project](https://github.com/a-abukar/docker-build)
+- [3-tier-architecture-with-terraform](https://github.com/a-abukar/3-tier-architecture-iac)
 
 #### 🎗 Community-driven
 
