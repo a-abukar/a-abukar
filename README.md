@@ -34,10 +34,10 @@ To share the infectious passion, I write about my tech journey.
 
 ### 🛠 Recent Projects
 
-- [Password Manager](https://github.com/a-abukar/password-manager)
-- [DevOps Pipeline Project](https://github.com/a-abukar/docker-build)
+- [PassPal (Password Manager)](https://github.com/a-abukar/password-manager)
 - [3-tier-architecture-with-terraform](https://github.com/a-abukar/3-tier-architecture-iac)
 - [Containerised Notes Flask app](https://github.com/a-abukar/notes-web-app)
+- [ChatGPT Discord Bot]()
 
 #### 🎗 Community-driven
 
@@ -47,12 +47,13 @@ To share the infectious passion, I write about my tech journey.
 #### 📖 Personal learning
 - [Simple Workflow pipeline](https://github.com/a-abukar/my-pipeline-project)
 - [Ansible Learning](https://github.com/a-abukar/ansible-beginner-project)
+- [DevOps Pipeline Project](https://github.com/a-abukar/docker-build)
 
 ### 🖋 Medium Articles
 
 - [How I became a DevOps Engineer in 4 months](https://medium.com/@a.abukar/how-i-became-a-devops-engineer-in-4-months-68ab10ef3084)
 - [The Ultimate Guide to obtaining the Certified Kubernetes Administrator (CKA)](https://medium.com/@a.abukar/the-ultimate-guide-to-becoming-kubernetes-certified-96958944e048) 
-- [My 40 days journey to the Kubernetes Trifecta](https://medium.com/@a.abukar/my-40-days-journey-to-the-kubernetes-trifecta-a1e2bfc2914d)
+- [A guide to passing the Kubernetes Trifecta in 40 days](https://medium.com/credera-engineering/a-guide-to-passing-the-kubernetes-trifecta-in-40-days-831bd38f2bdb)
 - [Top 5 DevOps certification to have in 2022!](https://medium.com/@a.abukar/top-5-devops-certifications-to-have-in-2022-41a277894e9c)
 
 
@@ -60,6 +61,7 @@ To share the infectious passion, I write about my tech journey.
 <p align="left">
 <a href="https://medium.com/@a.abukar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@a.abukar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/a-abukar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@a.abukar" height="30" width="40" /></a>
+<a href="https://blog.coderco.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/substack.svg" alt="@a.abukar" height="30" width="40" /></a>
 </p>
 
 
